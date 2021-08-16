@@ -10,7 +10,7 @@ ships a player has and end the game when the player runs out of ships.
 
 
 <span id="page_276"></span>
-## TRY IT YOURSELF #1
+## TRY IT YOURSELF Ⓐ
 
 <span id="ch13exe1"></span>**13-1. Stars:** Find an image of a star.
 Make a grid of stars appear on the screen.
@@ -28,7 +28,7 @@ This code returns a random integer between ΓÇô10 and 10. Using your code
 in [Exercise 13-1](../../../pcc_2e/tree/master/chapter_13/README.md#ch13exe1), adjust each star&rsquo;s position by a
 random amount.
 
-## TRY IT YOURSELF #2
+## TRY IT YOURSELF Ⓑ
 
 <span id="ch13exe3"></span>**13-3. Raindrops:** Find an image of a
 raindrop and create a grid of raindrops. Make the raindrops fall toward
@@ -39,7 +39,7 @@ the bottom of the screen until they disappear.
 disappears off the bottom of the screen, a new row appears at the top of
 the screen and begins to fall.
 
-## TRY IT YOURSELF #3
+## TRY IT YOURSELF Ⓒ
 
 <span id="ch13exe5"></span>**13-5. Catch:** Create a game that places a
 character that you can move left and right at the bottom of the screen.
@@ -52,7 +52,7 @@ the bottom of the screen.
 
 
 <span id="page_290"></span>
-## TRY IT YOURSELF #4
+## TRY IT YOURSELF Ⓓ
 
 <span id="ch13exe6"></span>**13-6. Game Over:** Using your code from
 [Exercise 13-5](../../../pcc_2e/tree/master/chapter_13/README.md#ch13exe5) ([page 284](../../../pcc_2e/tree/master/chapter_13/README.md#page_284)),
