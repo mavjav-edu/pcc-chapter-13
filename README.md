@@ -55,7 +55,7 @@ the bottom of the screen.
 ## TRY IT YOURSELF Ⓓ
 
 <span id="ch13exe6"></span>**13-6. Game Over:** Using your code from
-[Exercise 13-5](../../../pcc_2e/tree/master/chapter_13/README.md#ch13exe5) ([page 284](../../../pcc_2e/tree/master/chapter_13/README.md#page_284)),
+[Exercise 13-5](#ch13exe5) ([page 284](#page_284)),
 keep track of the number of times the player misses the ball. When
 they&rsquo;ve missed the ball three times, end the game.
 
