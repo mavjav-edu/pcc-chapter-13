@@ -6,7 +6,7 @@ of aliens. We’ll make the fleet advance sideways and down, and we’ll get
 rid of any aliens hit by a bullet. Finally, we’ll limit the number of
 ships a player has and end the game when the player runs out of ships.
 
-
+![Alien Abduction by Kolby Larsen on Dribbble](https://cdn.dribbble.com/users/1095803/screenshots/3788111/cow-final.gif)
 
 
 <span id="page_276"></span>
@@ -14,6 +14,8 @@ ships a player has and end the game when the player runs out of ships.
 
 <span id="ch13exe1"></span>**13-1. Stars:** Find an image of a star.
 Make a grid of stars appear on the screen.
+
+![Warp drive - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/WarpTrails001.gif/258px-WarpTrails001.gif)
 
 <span id="ch13exe2"></span>**13-2. Better Stars:** You can make a more
 realistic star pattern by introducing randomness when you place each
@@ -24,8 +26,8 @@ from random import randint
 random_number = randint(-10,10)
 ```
 
-This code returns a random integer between ΓÇô10 and 10. Using your code
-in [Exercise 13-1](../../../pcc_2e/tree/master/chapter_13/README.md#ch13exe1), adjust each star&rsquo;s position by a
+This code returns a random integer between  –10 and 10. Using your code
+in [Exercise 13-1](#ch13exe1), adjust each star&rsquo;s position by a
 random amount.
 
 ## TRY IT YOURSELF Ⓑ
@@ -35,9 +37,11 @@ raindrop and create a grid of raindrops. Make the raindrops fall toward
 the bottom of the screen until they disappear.
 
 <span id="ch13exe4"></span>**13-4. Steady Rain:** Modify your code in
-[Exercise 13-3](../../../pcc_2e/tree/master/chapter_13/README.md#ch13exe3) so that when a row of raindrops
+[Exercise 13-3](#ch13exe3) so that when a row of raindrops
 disappears off the bottom of the screen, a new row appears at the top of
 the screen and begins to fall.
+
+![Rain Boots GIFs](https://media4.giphy.com/media/3oKIPstwMF15FghbYQ/giphy.gif)
 
 ## TRY IT YOURSELF Ⓒ
 
@@ -59,3 +63,4 @@ the bottom of the screen.
 keep track of the number of times the player misses the ball. When
 they&rsquo;ve missed the ball three times, end the game.
 
+![Matthew Henry GIF](https://media3.giphy.com/media/RtpmUzMbynBeCgEa5E/200w.gif)
